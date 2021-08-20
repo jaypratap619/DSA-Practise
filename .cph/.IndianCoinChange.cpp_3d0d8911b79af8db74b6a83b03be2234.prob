@@ -1,0 +1,1 @@
+{"name":"Local: IndianCoinChange","url":"c:\\Users\\jay\\Desktop\\DSA Challenge\\IndianCoinChange.cpp","tests":[{"id":1627271845807,"input":"10\n1 2 5 10 20 50 100 200 500 2000\n158","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\jay\\Desktop\\DSA Challenge\\IndianCoinChange.cpp","group":"local","local":true}

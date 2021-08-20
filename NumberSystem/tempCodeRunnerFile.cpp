@@ -1,0 +1,1 @@
+cout<<DecToBinary(n)<<endl;
