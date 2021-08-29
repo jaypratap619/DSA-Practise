@@ -5,10 +5,11 @@ using namespace std;
 
 string moveX(string s){
     if(s.length() == 0) return "";
+    
+    char ch = s[0];
 
     string ans = moveX(s.substr(1));
 
-    char ch = s[0];
     if(ch == 'x'){
         return ans + ch;
     }
